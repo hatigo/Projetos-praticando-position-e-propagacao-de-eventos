@@ -9,14 +9,7 @@ Comportamentos esperados:
   - Um ele terá dentro dele o icone "olho-fechado" e o valor do atributo **type** será **password**
   - Outro ele terá dentro dele o icone "olho-aberto" e o valor do atributo **type** será **text**
 
-**Neste exercício usaremos: (CSS)**
- - position relative
- - position absolute
 
-**Neste exercício usaremos: (JS)**
- - evento de clique
- - seletor de elementos da DOM
- - manipulação de elementos
 
 ---
 
