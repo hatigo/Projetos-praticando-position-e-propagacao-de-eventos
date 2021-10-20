@@ -11,17 +11,7 @@ Comportamentos esperados:
   - Quando o usuário clicar no modal (e não na imagem dele), o modal deverá ser fechado
   - Quando o usuário clicar na imagem, a mesma deverá ser aberta em outra guia por meio de um link
 
-**Neste exercício usaremos: (CSS)**
- - position sticky
- - position relative
- - position fixed
- - z-index
 
-**Neste exercício usaremos: (JS)**
- - evento de clique
- - seletor de elementos da DOM
- - manipulação de elementos
- - manipulação de classes/style de elementos
 
 ---
 
