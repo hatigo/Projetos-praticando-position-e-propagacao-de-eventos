@@ -10,14 +10,7 @@ Comportamentos esperados:
 - Você pode trocar essa visibilidade por meio de classes ou diretamente no style
 - O icone deverá seguir o usuário conforme ele scrolle a página
 
-**Neste exercício usaremos: (CSS)**
- - position fixed
- - position absolute
 
-**Neste exercício usaremos: (JS)**
- - evento de clique
- - seletor de elementos da DOM
- - manipulação de classes/style de elementos
 
 ---
 
